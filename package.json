@@ -1,0 +1,22 @@
+{
+  "name": "ec2httpendpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mva1991/EC2HTTPEndPoint.git"
+  },
+  "author": "Vinay Manchiraju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mva1991/EC2HTTPEndPoint/issues"
+  },
+  "homepage": "https://github.com/mva1991/EC2HTTPEndPoint#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
